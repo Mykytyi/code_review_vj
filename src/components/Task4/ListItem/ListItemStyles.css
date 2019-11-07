@@ -1,0 +1,66 @@
+.fourTaskListItem {
+  display: block;
+  width: 270px;
+  min-height: 380px;
+  margin-bottom: 15px;
+  border: 1px solid darkgrey;
+  box-sizing: border-box;
+  border-radius: 5px;
+}
+
+.fourTaskListItem .fourTaskListItemNum {
+  text-align: center;
+  color: rgba(88,94,88,.84);
+}
+
+.fourTaskListItem h3 {
+  margin: 0;
+  text-align: center;
+  color: rgba(88,94,88,.84);
+}
+
+.fourTaskListItem p {
+  margin: 0;
+  text-align: center;
+  color: rgba(88,94,88,.84);
+}
+
+.imageWrap {
+  width: 100%;
+  min-height: 100px;
+}
+
+.imageWrap img {
+  display: block;
+  width: 200px;
+  height: 150px;
+  margin: 0 auto;
+}
+
+.fourTaskListItem .optionsList {
+  margin-bottom: 10px;
+}
+
+.fourTaskListItem ul {
+  margin: 0;
+  padding: 0 0 0 15px;
+  width: 100%;
+  min-height: 100px;
+  list-style: none;
+  box-sizing: border-box;
+}
+
+.fourTaskListItem ul li {
+  margin: 0;
+  padding: 0;
+  width: 240px;
+  min-height: 15px;
+  color: rgba(74, 80, 74, 0.84);
+}
+
+.fourTaskListItem .price {
+  text-align: center;
+  font-size: 22px;
+  font-weight: bold;
+  color: rgba(70, 70, 70, 0.99);
+}
